@@ -79,9 +79,9 @@
  },
  "F1-2a": {
   "status": "inprogress",
-  "progress": 90,
+  "progress": 0,
   "outcome": "برای چند بار به عدد 80 درصد رسید اما با توجه به شلوغی پایدار نبود.",
-  "updatedAt": "2026-09-13T08:58:31.567Z"
+  "updatedAt": "2026-09-13T08:58:27.051Z"
  },
  "OWN-P6": {
   "status": "done",
