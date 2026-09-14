@@ -805,9 +805,9 @@
  },
  "P5-1a": {
   "status": "inprogress",
-  "progress": 15,
+  "progress": 30,
   "outcome": "بررسی و بهبود ابزارهای سرور Wallboard\nرفع مشکلات مربوط به Screenshot\nاعمال تغییرات در سرویس پیام‌رسانی هشدارها",
-  "updatedAt": "2026-09-14T07:26:49.105Z"
+  "updatedAt": "2026-09-14T07:26:52.371Z"
  },
  "P5-2.2.1.4a": {
   "status": "done",
