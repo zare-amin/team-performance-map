@@ -446,8 +446,8 @@
  "P21-2a": {
   "status": "inprogress",
   "progress": 0,
-  "outcome": "مدل د",
-  "updatedAt": "2026-09-14T06:30:53.864Z"
+  "outcome": "",
+  "updatedAt": "2026-09-14T06:30:51.717Z"
  },
  "P5-2.3.2a": {
   "status": "cancelled",
