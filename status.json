@@ -390,9 +390,9 @@
   "updatedAt": "2026-09-14T06:22:39.862Z"
  },
  "P7-1.1b": {
-  "status": "inprogress",
-  "progress": 0,
+  "status": "done",
+  "progress": 100,
   "outcome": "",
-  "updatedAt": "2026-09-14T06:22:45.831Z"
+  "updatedAt": "2026-09-14T06:22:49.424Z"
  }
 }
