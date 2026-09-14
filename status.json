@@ -430,5 +430,11 @@
   "progress": 0,
   "outcome": "انحام شد",
   "updatedAt": "2026-09-14T06:24:35.007Z"
+ },
+ "F3-1c": {
+  "status": "done",
+  "progress": 0,
+  "outcome": "",
+  "updatedAt": "2026-09-14T06:24:37.431Z"
  }
 }
