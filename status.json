@@ -658,5 +658,11 @@
   "progress": 70,
   "outcome": "",
   "updatedAt": "2026-09-14T06:54:51.637Z"
+ },
+ "P5-2.2c": {
+  "status": "inprogress",
+  "progress": 0,
+  "outcome": "",
+  "updatedAt": "2026-09-14T06:54:59.826Z"
  }
 }
